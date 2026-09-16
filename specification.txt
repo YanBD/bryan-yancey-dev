@@ -1,0 +1,25 @@
+Html Tags
+    head
+    link
+    script
+    title
+    body
+    header
+    nav
+    div
+    button
+    a
+    span
+    ul
+    li
+    h1
+
+css properties
+    container
+    mt
+    text-center
+    row
+    align items
+
+I used bootstrap to handle most naviation bar found in the webpages. Also to handle grid layout found on several pages.
+Javascript was used to iterate over the pubic projects found on my github to populate a table on the projecs page
